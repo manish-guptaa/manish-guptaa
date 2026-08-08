@@ -13,3 +13,10 @@ Business Intelligence & Analytics professional with nearly 11 years of overall e
 **Databases & Cloud:** `Microsoft SQL Server` · `MySQL` · `AWS` · `Google Cloud Platform` · `Microsoft Azure`
 
 **Business & Leadership:** `Reporting Automation` · `Data Quality` · `Stakeholder Management` · `Team Leadership` · `Requirements Gathering` · `Process Improvement`
+
+## Professional Focus
+
+- Business Intelligence & Executive Reporting
+- Machine Learning & Predictive Analytics
+- Reporting Automation & Process Improvement
+- Data-Driven Decision Support for Business Stakeholders
