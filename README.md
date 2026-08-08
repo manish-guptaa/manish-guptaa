@@ -28,3 +28,18 @@ Business Intelligence & Analytics professional with nearly 11 years of overall e
 - **Master of Technology (M.Tech), Computer Science & Engineering** — Dr. APJ Abdul Kalam Technical University | 74.05%
 - **Master of Computer Applications (MCA)** — Sam Higginbottom University of Agriculture, Technology & Sciences | CGPA: 9.89 · Merit List IV
 - **Bachelor of Computer Applications (BCA)** — Allahabad Agricultural Institute–Deemed University | CGPA: 8.92
+
+## Certifications & Professional Learning
+
+- **Advanced Certification in Software Engineering for Cloud, Blockchain & IoT** — IIT Madras / Great Learning | 2022
+- **SQL (Intermediate)** — HackerRank | Jun 2023
+- **Build Your Generative AI Productivity Skills with Microsoft & LinkedIn** — Microsoft / LinkedIn Learning | Apr 2025
+- **Understanding Generative AI for Tech Leaders** — LinkedIn Learning | Apr 2025
+- **Generative AI** — Great Learning | Feb 2025
+- **AWS Load Balancer** — Great Learning | Jan 2025
+- **Create Azure Bot** — Great Learning | Jun 2023
+- **Master AWS Cloud Computing** — Great Learning | Sep 2022
+- **Artificial Intelligence on Cloud** — Great Learning | Jun 2022
+- **Basics of Python** — Infosys Springboard | May 2022
+- **Technical Support Fundamentals** — Google | Feb 2022
+- **Introduction to Structured Query Language (SQL)** — University of Michigan | Aug 2020
