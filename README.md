@@ -6,4 +6,10 @@ Business Intelligence & Analytics professional with nearly 11 years of overall e
 
 ## Core Skills
 
-`Python` · `SQL` · `SAS` · `Power BI` · `Tableau` · `Machine Learning` · `Predictive Analytics` · `Microsoft Excel`
+**Analytics & Programming:** `Python` · `SQL` · `SAS` · `Machine Learning` · `Predictive Analytics` · `Statistical Analysis`
+
+**Business Intelligence & Visualization:** `Power BI` · `Tableau` · `Microsoft Excel` · `Dashboard Development` · `Data Visualization`
+
+**Databases & Cloud:** `Microsoft SQL Server` · `MySQL` · `AWS` · `Google Cloud Platform` · `Microsoft Azure`
+
+**Business & Leadership:** `Reporting Automation` · `Data Quality` · `Stakeholder Management` · `Team Leadership` · `Requirements Gathering` · `Process Improvement`
