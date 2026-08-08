@@ -20,3 +20,11 @@ Business Intelligence & Analytics professional with nearly 11 years of overall e
 - Machine Learning & Predictive Analytics
 - Reporting Automation & Process Improvement
 - Data-Driven Decision Support for Business Stakeholders
+
+## Education
+
+- **Master of Data Science (Global)** — Deakin University, Australia | Aug 2024 – Jul 2026
+- **Post Graduate Program in Data Science & Business Analytics** — The University of Texas at Austin | GPA: 3.58
+- **Master of Technology (M.Tech), Computer Science & Engineering** — Dr. APJ Abdul Kalam Technical University | 74.05%
+- **Master of Computer Applications (MCA)** — Sam Higginbottom University of Agriculture, Technology & Sciences | CGPA: 9.89 · Merit List IV
+- **Bachelor of Computer Applications (BCA)** — Allahabad Agricultural Institute–Deemed University | CGPA: 8.92
