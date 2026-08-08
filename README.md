@@ -43,3 +43,11 @@ Business Intelligence & Analytics professional with nearly 11 years of overall e
 - **Basics of Python** — Infosys Springboard | May 2022
 - **Technical Support Fundamentals** — Google | Feb 2022
 - **Introduction to Structured Query Language (SQL)** — University of Michigan | Aug 2020
+
+## Featured Projects
+
+### 📊 Insurance Claims Analytics Dashboard — Tableau
+
+Interactive analysis of 7,647 car insurance records covering claim frequency, claim amount, customer segments and vehicle characteristics.
+
+🔗 [View Project Repository](https://github.com/manish-guptaa/insurance-claims-tableau-dashboard)
